@@ -1,4 +1,4 @@
-Rest APi + jQuery
+Rest API + jQuery
 
 Based on source data (csv file) pairs of employees with maximum time overlapping on same project are displayed
 Input is read from src/resources/static/output.txt 
