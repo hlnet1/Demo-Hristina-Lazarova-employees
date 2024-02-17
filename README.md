@@ -3,7 +3,8 @@ Assignment
 Based on source data (csv file) pairs of employees with maximum time overlapping on same project are displayed
 Reading data from src/resources/static/output.txt 
 Supported date formats are supported [MM/dd/yyyy]" "[dd-MM-yyyy]" "[yyyy-MM-dd]
-UI : Output in datagrid with 4 columns resp Employee ID #1, Employee ID #2, Project ID, Days worked.
+
+UI: the output is visualized in the browser as datagrid with 4 columns resp Employee ID #1, Employee ID #2, Project ID, Days worked
 
 Version
 0.0.1-SNAPSHOT
